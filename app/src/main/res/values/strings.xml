@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="warning_network">Check your internet connection!</string>
+    <string name="warning_empty_string">User name field length must contains bigger than zero!</string>
+    <string name="warning_english_character">User name field must contains valid characters!</string>
+    <string name="main_screen_title">Home</string>
+    <string name="main_screen_submit">Submit</string>
+    <string name="prefix_stars">stars: </string>
+    <string name="prefix_open_issue">open issues: </string>
+</resources>
